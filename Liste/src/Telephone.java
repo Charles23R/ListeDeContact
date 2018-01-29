@@ -3,8 +3,8 @@
  */
 public class Telephone {
 
-    String info="";
-    String numero="";
+    String info=" ";
+    String numero=" ";
 
     //Getters
     public String getInfo() {
